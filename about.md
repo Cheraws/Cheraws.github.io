@@ -11,4 +11,4 @@ can be viewed in the Portfolio tab.
 
 ### Contact me
 
-[Cheraws@gmail..com](mailto:Cheraws@gmail.com)
+[Cheraws@gmail.com](mailto:Cheraws@gmail.com)
