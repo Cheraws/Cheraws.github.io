@@ -29,7 +29,7 @@ permalink: /portfolio/
 * Scraped stats from overlog.gg into MongoDB to be used by the blog
 * Graphed key findings using chart.js
 
-![An example graph of what I showed in chart.js](/images/pie.jpg)
+![An example graph of what I showed in chart.js](/images/pie.png)
 
 
 
