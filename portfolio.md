@@ -24,7 +24,6 @@ Points placed onto the map
 A peak of the website UI.
 
 
-![An example graph of what I showed in chart.js](/images/original.png)
 ## Competitive Genji Blog [(link)](https://medium.com/@Cheraws/what-stats-make-the-best-genji-blades-in-owl-1e7496c7bb45)
 
 (Tableau, Scrapy, Python)
