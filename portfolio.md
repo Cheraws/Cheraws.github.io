@@ -14,6 +14,17 @@ permalink: /portfolio/
 * Extracted key objectives and key team fight statistics from gameplay video using OpenCV
 * Displayed location and relevant details of each key fight on a react based GUI that shows events overlayed on a map.
 
+![filtered](/images/original.png)
+Starting with this image
+![colored](/images/filtered.png)
+After color filtering
+![colored](/images/map.png)
+Points placed onto the map
+![teamfight](/images/teamfight.png)
+A peak of the website UI.
+
+
+![An example graph of what I showed in chart.js](/images/original.png)
 ## Competitive Genji Blog [(link)](https://medium.com/@Cheraws/what-stats-make-the-best-genji-blades-in-owl-1e7496c7bb45)
 
 (Tableau, Scrapy, Python)
@@ -22,7 +33,10 @@ permalink: /portfolio/
 * Reverse engineered Winstons Lab, a Overwatch Stats website, to get data for the analysis
 * Used Tableau to point out  anomalies/correlations in the data with clear graphs
 
-## Competitive Genji Blog [(link)](https://passintotheiris.herokuapp.com/)
+![teamfight](/images/tableau.png)
+A screenshot of Genji statistics.
+
+## Analysis on how Mains Affect the Overwatch Meta [(link)](https://passintotheiris.herokuapp.com/)
 (Tableau, Scrapy, Python)
 
 * Created a blog from the ground up using Node, React, and MongoDB 
