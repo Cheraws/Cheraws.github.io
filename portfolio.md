@@ -6,6 +6,26 @@ permalink: /portfolio/
 
 ### Projects
 
+
+
+
+## Overwatch League Box Score [(link)](http://overwatch-live-stats.appspot.com/)
+
+(React, Python, Selenium, Highcharts)
+
+* Using Selenium, scraped data from a Twitch.tv extension every 5 seconds and stored them into a Mongo database.
+* Compiled the data into JSON into a React SPA, creating an interface for people to check scores for each match and infographics.
+* Still working being able to make comparisons between different matches without having to load all the information.
+
+
+![filtered](/images/box_score.png)
+A box score between the Los Angeles Gladiatiors and the Boston Uprising.
+
+![teamfight](/images/graph.png)
+A graph showing the eliminations per minute in a map.
+
+
+
 ## Teamfight Viewer for Overwatch League [(link)](https://teamfightviewer.herokuapp.com/)
 
 (React, Python, OpenCV)
