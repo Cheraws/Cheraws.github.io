@@ -6,7 +6,7 @@ permalink: /about/
 
 ### More Information
 
-Hi, I am a college graduate actively looking for a job in Software engineering. Some of my projects
+Hi, I am a UC Berkeley graduate actively looking for a job in Software engineering. Some of my projects
 can be viewed in the Portfolio tab. 
 
 ### Contact me
