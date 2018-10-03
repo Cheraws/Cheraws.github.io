@@ -15,8 +15,7 @@ permalink: /portfolio/
 
 * Using Selenium, scraped data from a Twitch.tv extension every 5 seconds and stored them into a Mongo database.
 * Compiled the data into JSON into a React SPA, creating an interface for people to check scores for each match and infographics.
-* Still working being able to make comparisons between different matches without having to load all the information.
-
+* Since Blizzard released the official API, I created another website, owl-box-scores.firebaseapp.com , that used the official stats instead. In this version, I prioritized match by match stats, but am planning to add aggregate stats soon!
 
 ![filtered](/images/box_score.png)
 A box score between the Los Angeles Gladiatiors and the Boston Uprising.
