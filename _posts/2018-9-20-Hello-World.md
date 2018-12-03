@@ -3,4 +3,4 @@ layout: post
 title: My portfolio
 ---
 
-About page and Portfolio page currently up for info about my own skills.
+My Blog is https://medium.com/@Cheraws , though I primarily tend to post my analysis findings on Reddit.
